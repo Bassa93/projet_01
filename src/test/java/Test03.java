@@ -45,8 +45,7 @@ public class Test03 extends CM {
         p5.CHECKOUTOVERVIEW();
         p5.cliquerBoutonFinish();
 
-       // PageThank p6=new PageThank();
-
-       // p6.thankk();
+      //  PageThank p6=new PageThank();
+     //  p6.thankk();
     }
 }
